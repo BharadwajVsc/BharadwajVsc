@@ -18,33 +18,22 @@ From stealth kills to plot twists, I love storytelling — in both games and cod
 ---
 
 ## 🧠 Tech Stack
-### 🔣 Core Programming & Libraries  
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
 ![Tkinter](https://img.shields.io/badge/-Tkinter-black?style=flat-square&logo=python)  
-![Pickle](https://img.shields.io/badge/-Pickle-black?style=flat-square&logo=python)  
-
-### 📊 Data Science & ML  
+![Pickle](https://img.shields.io/badge/-Pickle-black?style=flat-square&logo=python)   
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)  
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)  
 ![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=flat-square&logo=python)  
 ![LightGBM](https://img.shields.io/badge/-LightGBM-black?style=flat-square&logo=python)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)
-
-### 🧠 AI & LLMs  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib) 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)  
 ![Gemini Pro](https://img.shields.io/badge/-Gemini_Pro-black?style=flat-square&logo=google)  
-![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square&logo=python)
-
-### 🌐 Web & Interface  
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square&logo=python) 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)  
 ![Gradio](https://img.shields.io/badge/-Gradio-black?style=flat-square&logo=gradio)
-
-### ☁️ Cloud & Deployment  
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=google-cloud)
-
-### 🗄️ Databases & Querying  
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
 ![Oracle SQL](https://img.shields.io/badge/-Oracle_SQL-black?style=flat-square&logo=oracle)
