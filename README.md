@@ -7,8 +7,6 @@ I’ve previously worked in the industry, and I’m now focused on building stro
 
 🧰 I enjoy turning complex ideas into usable AI tools — from **RAG pipelines and LLM-powered apps** to **data dashboards and APIs**.
 
-🎮 Outside of coding, I stream games and tactical plays on [YouTube](https://www.youtube.com/@zaangetsuu).  
-Whether it’s games or code, I love breaking down systems and telling stories through them.
 
 ---
 
